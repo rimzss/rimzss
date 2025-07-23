@@ -7,7 +7,8 @@
 
  
 <img align="center" width="100%" src="https://t3.ftcdn.net/jpg/05/00/85/04/360_F_500850425_KGzvN3zMn2Uif4Xa1eQDbV3bqgTNzA4H.jpg" alt="itachi" />
-
+<img align="center" width="100%" src="https://i.pinimg.com/originals/6e/f9/ec/6ef9ec490d87806ccf1565a0f15f48ed.gif" alt="onizuka"/>
+ 
 <div aling="center">
  <img alignt="right" src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="100"  />
 <pre style="text-align:center">
