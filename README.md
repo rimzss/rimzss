@@ -8,9 +8,9 @@
  
 <img align="center" width="100%" src="https://i.pinimg.com/originals/6e/f9/ec/6ef9ec490d87806ccf1565a0f15f48ed.gif" alt="onizuka"/>
  
-<div aling="center">
- <img alignt="right" src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="100"  />
-<pre style="text-align:center">
+<div align="center">
+ <img align="right" src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="100"  />
+<pre style="display:inline; text-align:left">
     💼 Full stack • Nest Core LLC
     💻 Html • Css • JavaScript • TypeScript • Java • C++ • C#
     📖 React • React Native • NextJs • NodeJs • ExpressJs • Graphql
